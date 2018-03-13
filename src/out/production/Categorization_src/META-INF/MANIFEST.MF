@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Manifest-Version: 1.0
 Main-Class: CategorizationWithUI
 
+=======
+Manifest-Version: 1.0
+Main-Class: CategorizationWithUI
+
+>>>>>>> 66ab75eec27db578f5e086bf638452df1de7b5a4

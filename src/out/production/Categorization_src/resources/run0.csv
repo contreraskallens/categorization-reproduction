@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 gamesPerPlayer	avgPerceptualCats	avgLinguisticCats	avgSynonymy	successRate	percOverlap	lingOverlap
+=======
+gamesPerPlayer	avgPerceptualCats	avgLinguisticCats	avgSynonymy	successRate	percOverlap	lingOverlap
+>>>>>>> 66ab75eec27db578f5e086bf638452df1de7b5a4
 100	22.37	22.37	12.757052761362784	0.028	0.5831263330254068	0.5831263330254068
 200	31.66	31.66	14.846936306280824	0.037	0.5855282308140406	0.585559070540294
 300	38.43	38.43	15.363228693354163	0.045	0.5796287238061487	0.5785865380045533
